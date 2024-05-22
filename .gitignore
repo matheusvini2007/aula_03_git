@@ -15,7 +15,7 @@ pagina2.html
 pagina3.html
 
 #não ignorar o arquivo mesmo que exista uma regra anterior
-!pagina3.html.
+!pagina3.html
 
 #não ignorar o arquivo mesmo que exista uma regra anterior
 !imagens/preview/logomarca.png
